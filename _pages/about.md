@@ -1,7 +1,8 @@
-I am a Postdoctoral Researcher working on PFAS adsorption and water treatment.
+---
+title: "Welcome"
+layout: home
+---
 
-Research interests:
+Hello! I am Y. Nakazawa, a Postdoctoral Researcher working on PFAS adsorption and water treatment.
 
-- PFAS adsorption
-- Activated carbon
-- Water treatment
+Here you can find my research interests, publications, and CV.
