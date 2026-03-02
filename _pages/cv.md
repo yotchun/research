@@ -34,12 +34,21 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Analytical Equipment
+  * LC-MSMS
+  * ICP-MS
+  * IC
+  * Fluorescence spectrophotometer
+  * spectrophotometer
+  * zeta-potential meter
+  * particle size analyzer
+  * TOC Analyzer
+* Manufacturing of aluminum-based coagulants
+* Water treatment by coagulation, sedimentation, sand filtration, and adsorption
+* Computer skills
+  * Python (data analysis and visualization using adsorption models)
+  * MS Office (Word, Excel, PowerPoint)
+  * MarvinSkech (Structural analysis of substances)
 
 Publications
 ======
@@ -59,6 +68,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* C
