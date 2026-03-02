@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in engineering, Hokkaido University, 2021
+* M.S. in engineering, Hokkaido University, 2018
+* B.S. in engineering, Hokkaido University, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Apr 2024 − Mar 2026: Postdoctoral researcher (JSPS Overseas Research Fellow)
+  * NC state university
+  * Duties includes: Clarifying the adsorption and desorption properties of PFAS in multi-solute systems using GAC
+  * Supervisor:
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Apr 2021 − Mar 2024: Postdoctoral researcher (JSPS Postdoctoral Research Fellow)
+  * National institute of public health, Japan 
+  * Duties included: Clarifying the desorption potential of PFAS from GAC, nationwide study on PFAS removal performance at water treatment plants
+  * Supervisor:
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Apr 2019 − Mar 2021: Ph.D. student (JSPS Doctoral Course Research Fellow)
+  * Hokkaido University
+  * Duties included: Developing aluminum coagulants that contribute to the high-efficiency coagulation and removal of fine particles, and evaluating the water treatment performance of fine particles (clay, microplastics, activated carbon, viruses)
+  * Supervisor:
   
 Skills
 ======
@@ -61,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* C
